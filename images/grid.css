@@ -1,0 +1,40 @@
+
+*{
+    padding: 0px;
+    margin: 0%;
+
+}
+body{
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+
+}
+.sec-1{
+    background-color: hsl(31, 77%, 52%);
+    padding: 30px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.sec-2{
+    background-color: hsl(184, 100%, 22%);
+    padding: 32px;
+}
+.sec-3{
+    background-color: hsl(179, 100%, 13%) ;
+    padding: 32px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+main{
+    display: flex;
+    width: 55%;
+    margin: 9% auto;
+    color: white;
+}
+.play{
+    background-color: white;
+    border-radius: 20px;
+    width: fit-content;
+    padding: 10px 20px;
+    margin-top: 60px;
+}
